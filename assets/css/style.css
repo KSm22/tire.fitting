@@ -76,6 +76,7 @@ body {
   .about__list {
     display: inline-block;
     margin: 0 auto;
+    padding-left: 15px;
     text-align: start; }
     .about__list li {
       padding: 5px 0; }
@@ -181,8 +182,8 @@ body {
   .footer a {
     color: #fff;
     font-weight: 700;
-    -webkit-transition: color 0.2s ease-in-out;
-    transition: color 0.2s ease-in-out; }
+    -webkit-transition: color 0.2 ease-in-out;
+    transition: color 0.2 ease-in-out; }
   .footer a:hover {
     color: #d9d7d7; }
   .footer i {
