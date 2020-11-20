@@ -78,3 +78,6 @@
     .owl-theme .owl-dots .owl-dot {
       outline: none;
     }
+    .owl-nav button.owl-next:focus, .owl-nav button.owl-prev{
+      outline: none;
+    }
