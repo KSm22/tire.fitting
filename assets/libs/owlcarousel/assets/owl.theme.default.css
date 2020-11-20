@@ -71,8 +71,10 @@
       border-radius: 50% !important;
       font-size: 32px !important;
     }
-.owl-next span, .owl-prev span{
-  font-size: 50px !important;
-  line-height: 33px;
-
-}
+    .owl-next span, .owl-prev span{
+      font-size: 50px !important;
+      line-height: 33px;
+    }
+    .owl-theme .owl-dots .owl-dot {
+      outline: none;
+    }
